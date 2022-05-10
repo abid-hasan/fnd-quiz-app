@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.teal,
       ),
       home: const MyHomePage(title: 'Quiz App'),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
