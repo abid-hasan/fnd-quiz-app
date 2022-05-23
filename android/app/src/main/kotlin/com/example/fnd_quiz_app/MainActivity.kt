@@ -1,4 +1,4 @@
-package com.example.fnd_quiz_app
+package live.abid.fnd_quiz_app
 
 import io.flutter.embedding.android.FlutterActivity
 
