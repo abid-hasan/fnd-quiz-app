@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Quiz App',
       theme: ThemeData(
+        useMaterial3: false,
         primarySwatch: Colors.teal,
       ),
       home: const MyHomePage(title: 'Quiz App'),
